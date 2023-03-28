@@ -1,8 +1,10 @@
-package devandroid.santos.applistavip;
+package devandroid.santos.applistavip.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import devandroid.santos.applistavip.R;
 
 public class MainActivity extends AppCompatActivity {
 
